@@ -1,0 +1,23 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# CocoaPods
+Pods/
+
+# Archives
+*.xcarchive
+
+# Secrets
+.env
+.env.*
